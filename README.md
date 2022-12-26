@@ -3,17 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agus2k1&label=Profile%20views&color=0e75b6&style=flat" alt="agus2k1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agus2k1" alt="agus2k1" /></a> </p>
-
 - 🔭 I’m currently working on [metaverse-page](metaverse-page.vercel.app)
 
 - 🌱 I’m currently learning **React, Next and Tailwind**
 
 - 📫 How to reach me **agus2k1@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/agustin-erhardt](https://www.linkedin.com/in/agustin-erhardt)
-
-- ⚡ Fun fact **I'm a chess master**
+- ⚡ Fun fact **I'm a chess IM**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
