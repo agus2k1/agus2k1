@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [metaverse-page](metaverse-page.vercel.app)
 
-- 🌱 I’m currently learning **React, Next and Tailwind**
+- 🌱 I’m currently learning **React, Nextjs and Tailwind**
 
 - 📫 How to reach me **agus2k1@gmail.com**
 
