@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agus2k1&label=Profile%20views&color=0e75b6&style=flat" alt="agus2k1" /> </p>
 
-- 🔭 I’m currently working on my-portfolio
+- 🔭 I’m currently working on [my-portfolio](https://my-portfolio-agus2k1.vercel.app)
 
 - 🌱 I’m currently learning **React, Next.js and Tailwind**
 
