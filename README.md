@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [my-portfolio-2.0](https://my-portfolio-agus2k1.vercel.app)
 
-- 🌱 I’m currently learning **React, Next.js and Framer motion**
+- 🌱 I’m currently learning **React, Next.js and Three.js**
 
 - 📫 How to reach me **agus2k1@gmail.com**
 
