@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [portfolio-v2](https://portfolio-v2-agus2k1.vercel.app)
 
-- 🌱 I’m currently learning **React, Three.js and GSAP**
+- 🌱 I’m currently learning **React, Three.js and gsap**
 
 - 📫 How to reach me **agus2k1@gmail.com**
 
