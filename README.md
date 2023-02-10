@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [traffic-car-game](https://traffic-car-game-rust.vercel.app)
 
-- 🌱 I’m currently learning **React, Three.js and GSAP**
+- 🌱 I’m currently learning **React, Three.js and Blender**
 
 - 📫 How to reach me **agus2k1@gmail.com**
 
