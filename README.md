@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **agus2k1@gmail.com**
 
-- ⚡ Fun fact **I like to play Chess**
+- ⚡ Fun fact **I like to play chess**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
