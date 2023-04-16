@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [weather-v2](https://weather-agus2k1.vercel.app)
 
-- 🌱 I’m currently learning **React, Three/fiber and Blender**
+- 🌱 I’m currently learning **React, Three/fiber and Shaders**
 
 - 📫 How to reach me **agus2k1@gmail.com**
 
