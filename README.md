@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agus2k1&label=Profile%20views&color=0e75b6&style=flat" alt="agus2k1" /> </p>
 
-- 🔭 I’m currently working on [weather-v2](https://weather-agus2k1.vercel.app)
+- 🔭 I’m currently working on [Bow](https://github.com/agus2k1/books-of-worlds)
 
-- 🌱 I’m currently learning **Shaders**
+- 🌱 I’m currently learning **Astro**
 
 - 📫 How to reach me **agus2k1@gmail.com**
 
