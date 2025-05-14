@@ -5,11 +5,9 @@
 
 - 🔭 I’m currently working on [Bow](https://github.com/agus2k1/books-of-worlds)
 
-- 🌱 I’m currently learning **Astro**
+- 🌱 I’m currently learning ****
 
 - 📫 How to reach me **agus2k1@gmail.com**
-
-- ⚡ Fun fact **I like to play chess**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
